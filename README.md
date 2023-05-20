@@ -21,7 +21,7 @@ Clone the repo into your vs code.  This application also requires node.js, expre
 
 ## Usage
 Here is a screenshot that shows how the app runs in Insomnia
-![Demo of Employee Tracker App](./assets/insomniaScreenshot.PNG)
+![Demo of Employee Tracker App](./assets/insomniaScreenshot.png)
 
 ## License
 This repository is not covered under any license.
